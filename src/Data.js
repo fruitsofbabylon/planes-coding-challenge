@@ -2,27 +2,27 @@ export const data = {
     doubles: [{
         id: 1,
         name: "Budderball",
-        img: "budderball.webp"
+        img: "budderball.jpeg"
     }, {
         id: 2,
         name: "Rosebud",
-        img: "rosebud.webp"
+        img: "rosebud.jpeg"
     }, {
         id: 3,
         name: "Captain Canine",
-        img: "canine.webp"
+        img: "canine.jpeg"
     }, {
         id: 4,
         name: "B-Dawg",
-        img: "bdawg.webp"
+        img: "bdawg.jpeg"
     }, {
         id: 5,
         name: "Buddha",
-        img: "buddha.webp"
+        img: "buddha.jpeg"
     }, {
         id: 6,
         name: "Mudbud",
-        img: "mudbud.webp"
+        img: "mudbud.jpeg"
     } ]
 }
 
