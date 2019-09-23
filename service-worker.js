@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/planes-coding-challenge/precache-manifest.2413d59078ff58573309de859429b10d.js"
+  "/planes-coding-challenge/precache-manifest.d0fe15364c14c0eb93bd281cc3c3fecf.js"
 );
 
 self.addEventListener('message', (event) => {
