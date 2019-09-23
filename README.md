@@ -1,4 +1,20 @@
+# Stunt Doubles Picker App with React
+
+## About
+
+"Tinder-swipe" card UI App allowing movie directors to chose the right double stunt among various options provided on cards. UI includes the logo of the movie, the stunt double role header and a stack of cards with photo and name of the double displayed. Cards can be swiped (drag and dropped) right (chosing the stunt) or left (not chosing the stunt). After all options are displayed and swiped the table with names of stunts and desicion results (yes/no) is showed to the user.
+
+## Build With
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Ideas for future development
+
+* Fix for the use on Mozilla Fireworks browser (draggable global attribute).
+* Add animation (card clearing) on releasing of the drag.
+* Apply functional to use checked/cancel icons as buttons. When needed button is clicked the animation moves the card rigth/left updating data layer with user's choice.
+* Add more interactivity to the elements (example: chosen card is highlighted on mouse drag and the opacity of the card stack is reduced).
+* Create multiple tabs for diffenet movies and different stunt positions. 
 
 ## Available Scripts
 
