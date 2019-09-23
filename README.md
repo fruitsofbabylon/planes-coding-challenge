@@ -10,7 +10,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Ideas for future development
 
-* Fix for the use on Mozilla Fireworks browser (draggable global attribute).
+* Fix for the use on Mozilla Firefox browser (draggable global attribute).
 * Add animation (card clearing) on releasing of the drag.
 * Apply functional to use checked/cancel icons as buttons. When needed button is clicked the animation moves the card rigth/left updating data layer with user's choice.
 * Add more interactivity to the elements (example: chosen card is highlighted on mouse drag and the opacity of the card stack is reduced).
