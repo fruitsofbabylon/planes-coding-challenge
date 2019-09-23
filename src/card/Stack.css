@@ -1,0 +1,25 @@
+.Stack {
+    position: relative;
+    width: 200px;
+    height: 300px;
+}
+
+.Card:nth-last-child(2) {
+    transform: translateY(9px) scale(0.98);
+    opacity: 1;
+}
+
+.Card:nth-last-child(3) {
+    transform: translateY(19px) scale(0.95);
+    opacity: 1;
+}
+
+.Card:nth-last-child(1) {
+    opacity: 1;
+}
+
+.Card {
+    transition: 1s;
+    opacity: 0;
+    transform: translate3d(0, 0, 0);
+}

@@ -1,0 +1,29 @@
+.Card {
+    width: 200px;
+    height: 300px;
+    border: 2px solid lightgray;
+    border-radius: 10px;
+    position: absolute;
+    background: white;
+    font-size: 25px;
+}
+
+.Card img {
+    height: 220px;
+    width: 170px;
+    object-fit: cover;
+}
+
+.Card p {
+    margin-top: 3px;
+    font-size: 28px;
+}
+
+.Card .Image{
+    height: 220px; 
+    width: 170px; 
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: auto;
+}
